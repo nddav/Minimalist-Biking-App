@@ -1,0 +1,9 @@
+wsclient\ObjectFactory.class
+wsclient\Interface1.class
+wsclient\Step.class
+wsclient\GetItineraryResponse.class
+wsclient\App.class
+wsclient\ArrayOfStep.class
+wsclient\Service1.class
+wsclient\GetItinerary.class
+wsclient\package-info.class

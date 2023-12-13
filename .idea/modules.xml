@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projet - BikingApp.iml" filepath="$PROJECT_DIR$/.idea/Projet - BikingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_CLient/WSclient.iml" filepath="$PROJECT_DIR$/Java_CLient/WSclient.iml" />
+    </modules>
+  </component>
+</project>

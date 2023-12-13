@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="47cc9c01-7fba-4e51-b7d4-f1c73bb76e6e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8090/MyService/ProxyService?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProxyService.xsd" MetadataType="Schema" ID="f2111271-6934-43df-a02e-101e12215661" SourceId="1" SourceUrl="http://localhost:8090/MyService/ProxyService?xsd=xsd0" />
+    <MetadataFile FileName="ProxyService1.xsd" MetadataType="Schema" ID="94c02d1d-8d4c-4884-8261-ed720979c11a" SourceId="1" SourceUrl="http://localhost:8090/MyService/ProxyService?xsd=xsd1" />
+    <MetadataFile FileName="ProxyService2.xsd" MetadataType="Schema" ID="3c113333-5fed-49e7-a1e8-816ab16159db" SourceId="1" SourceUrl="http://localhost:8090/MyService/ProxyService?xsd=xsd2" />
+    <MetadataFile FileName="ProxyService3.xsd" MetadataType="Schema" ID="7812b32d-4dbb-4324-9b32-9d43e83348a5" SourceId="1" SourceUrl="http://localhost:8090/MyService/ProxyService?xsd=xsd3" />
+    <MetadataFile FileName="ProxyService.wsdl" MetadataType="Wsdl" ID="59f3c6cb-aa64-488a-8843-0157a0e0d351" SourceId="1" SourceUrl="http://localhost:8090/MyService/ProxyService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
